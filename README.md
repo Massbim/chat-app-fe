@@ -48,7 +48,7 @@ REACT_APP_API_BACKEND=YOUR_API_URL
 
 <img src="./readme/Telechat-1.png" />
 
-### Home
+### Register
 
 <img src="./readme/Telechat-2.png" />
 
