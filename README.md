@@ -52,13 +52,13 @@ REACT_APP_API_BACKEND=YOUR_API_URL
 
 <img src="./readme/Telechat-2.png" />
 
-### User List
+### Chat List
 
-<img src="./readme/Telechat-4.png" />
+<img src="./readme/Telechat-3.png" />
 
 ### Edit Profile
 
-<img src="./readme/Telechat-3.png" />
+<img src="./readme/Telechat-4.png" />
 
 <!-- CONTACT INFO -->
 
